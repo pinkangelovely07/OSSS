@@ -1,0 +1,12 @@
+C:\Users\user\documents\visual studio 2010\Projects\OSSS\OSSS\bin\Debug\OSSS.exe
+C:\Users\user\documents\visual studio 2010\Projects\OSSS\OSSS\bin\Debug\OSSS.pdb
+C:\Users\user\documents\visual studio 2010\Projects\OSSS\OSSS\obj\x86\Debug\OSSS.csprojResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2010\Projects\OSSS\OSSS\obj\x86\Debug\WindowsFormsApplication1.osssForm.resources
+C:\Users\user\documents\visual studio 2010\Projects\OSSS\OSSS\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\user\documents\visual studio 2010\Projects\OSSS\OSSS\obj\x86\Debug\OSSS.csproj.GenerateResource.Cache
+C:\Users\user\documents\visual studio 2010\Projects\OSSS\OSSS\obj\x86\Debug\OSSS.exe
+C:\Users\user\documents\visual studio 2010\Projects\OSSS\OSSS\obj\x86\Debug\OSSS.pdb
+C:\Users\user\documents\visual studio 2010\Projects\OSSS\OSSS\obj\x86\Debug\WindowsFormsApplication1.OutStudForm.resources
+C:\Users\user\documents\visual studio 2010\Projects\OSSS\OSSS\obj\x86\Debug\WindowsFormsApplication1.ScholarForm.resources
+C:\Users\user\documents\visual studio 2010\Projects\OSSS\OSSS\obj\x86\Debug\WindowsFormsApplication1.loginForm.resources
+C:\Users\user\documents\visual studio 2010\Projects\OSSS\OSSS\bin\Debug\MySql.Data.dll
